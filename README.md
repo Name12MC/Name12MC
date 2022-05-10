@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Name12MC
+- 👀 I code 
