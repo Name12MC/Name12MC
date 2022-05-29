@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Name12MC
-- 👀 I code 
+- 👋 Hi, I’m Name!
+- 👀 I code things.
